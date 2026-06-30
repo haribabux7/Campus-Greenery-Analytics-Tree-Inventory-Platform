@@ -1,4 +1,4 @@
-[1.md](https://github.com/user-attachments/files/29462769/1.md)
+
 # 🌳 CampusCanopy — Campus Greenery Analytics & Tree Inventory Platform
 
 > An end-to-end data analytics project that maps, cleans, analyzes and visualizes the biodiversity of a college campus — turning a hand-collected tree census into an interactive decision-support dashboard for sustainability and facilities teams.
@@ -442,15 +442,16 @@ A: Yes — the project is small enough to fit comfortably within free-tier limit
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
-
 ## 👤 Author
 
 **HARI BABU C H**
-Role: Frontend Developer | Data Analyst
-- GitHub: <https://github.com/haribabux7>
-- LinkedIn: <https://www.linkedin.com/in/haribabux7>
-- Portfolio: <https://www.haribabu.me>
-- Email: <haribabuc458@gmail.com>
+
+Frontend Developer | Data Analyst | Chennai, India
+
+- 🌐 Portfolio: [https://www.haribabu.me](https://www.haribabu.me)
+- 💼 LinkedIn: [https://www.linkedin.com/in/haribabux8](https://www.linkedin.com/in/haribabux8)
+- 🐙 GitHub: [https://github.com/haribabux8](https://github.com/haribabux8)
+- 📧 Email: [haribabuc458@gmail.com](mailto:haribabuc458@gmail.com)
 
 ---
 
@@ -463,11 +464,3 @@ Role: Frontend Developer | Data Analyst
 
 ---
 
-## 📌 Project Information
-
-| Field | Value |
-|---|---|
-| Version | 1.0.0 |
-| Designed Date | November 2025 |
-| Status | Active |
-| License | MIT |
